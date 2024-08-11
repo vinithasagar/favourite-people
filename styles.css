@@ -1,0 +1,114 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-synthesis-small-caps: 1.5px;
+    background-attachment: fixed;
+    background-color: black;
+}
+#home{
+    width: 100vw;
+    height: 100vh;
+    background: url(support-7965543_1280.webp) no-repeat scroll;
+    background-size: cover;
+    text-decoration: none;
+
+}
+#bio{
+    padding-top: 30px;
+    padding-left: 20px;
+}
+#Chithra{
+    background: url(CHITHRA-6.jpg)no-repeat scroll;
+    background-size: cover;
+    width: 100vw;
+    height:100vh;
+    display: inline-block;
+    opacity: 0.04px;
+ 
+   
+}
+#heading{
+    text-decoration: underline; 
+}
+.text{
+    color: ghostwhite;
+    display: inline-block;
+} 
+.artical{
+    display: inline-block;
+    font-size: small;
+}
+#apj{
+    background: url(apj\ garu.jpeg)no-repeat scroll;
+    background-size: cover;
+    width: 100vw;
+    height:100vh;
+    display: inline-block;
+    opacity: 0.04px;
+  
+   
+}
+#abdul{
+    color: ghostwhite;
+    width: 40%;
+    height: auto;
+    text-align: justify;
+    float: left;
+    color: aliceblue;
+    padding-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+
+  
+}
+#dhoni{
+    background: url(Screenshot\ 2024-08-09\ 131247.png)no-repeat scroll;
+    background-size: cover;
+    width: 100vw;
+    height:100vh;
+    display: inline-block;
+    opacity: 0.04px;
+   
+}
+.para{
+    color: ghostwhite;
+    width: 40%;
+    height: auto;
+    text-align: justify;
+    float: left;
+    color: aliceblue;
+    padding-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+#sundhar{
+    background: url(sundar-pichai.jpg)no-repeat scroll;
+    background-size: cover;
+    width: 100vw;
+    height:100vh;
+    display: inline-block;
+    opacity: 0.04px;
+
+}
+#chegeuva{
+    background: url(che-guevara.webp)no-repeat scroll;
+    background-size: cover;
+    width: 100vw;
+    height:100vh;
+    display: inline-block;
+    opacity: 0.04px;
+}
+#bio{
+    text-align: center;
+    padding-top: 400px;
+    padding-left: 400px;
+}
+ul a:hover
+{
+    background-color: rgb(223, 151, 83);
+    color: black;
+
+}
+.textunder{
+    text-decoration: none;
+    color: black;
+}
